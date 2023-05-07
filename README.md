@@ -53,7 +53,7 @@ Clique em `+Novo Funcionário`, a vacina que você cadastrou agora estará na li
 ---
 ## Algumas regras de negócio?
 
-Visando que os funcionários e aas vacinas sejam dados sensíveis, o sitema foi desenvolvido pensado na não exclusão de dados.
+Visando que os funcionários e as vacinas sejam dados sensíveis, o sitema foi desenvolvido pensado na não exclusão de dados.
 
 Os dados são apenas inativados, assim podendo manter um histórico em casos de possíveis relatórios a serem gerados futuramente.
 
