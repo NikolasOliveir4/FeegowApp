@@ -1,12 +1,12 @@
-# CucoHealth Front-end
+# FeegowApp
 
-Projeto realizado para teste full-stack da CucoHealth
+Projeto realizado para teste full-stack da Feegow
 
 ---
 
 ## Intuito da aplicação
 
-Pensando em um sistema de gestão onde usuários necessitem cadastrar clientes  
+Pensando em um sistema de gestão onde usuários necessitem cadastrar Clientes  
 
 ## Como clonar o projeto?
 
@@ -39,6 +39,6 @@ _Após o comando terminar, o projeto estará rodando na porta 8080 (http://local
 
 ---
 
-Imagens e paleta de cores pegadas do site da [CucoHealth](https://cucohealth.com/)
+Imagens e paleta de cores retiradas do site da [Feegow](https://feegowclinic.com.br/)
 
 Teste feito por Níkolas Oliveira.
