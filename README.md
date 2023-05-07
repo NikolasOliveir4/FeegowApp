@@ -67,6 +67,8 @@ Quanto a questão do sistema não deletar dados e apenas inativar, a alteração
 
 Atualmente a verificação da validade das vacinas é feito junto da função de listagem, causando um gasto desnecessário de processamento, em caso do sistema ficar hospedado em um servidor, seria substituido por CRON que rodaria um script 1x ao dia.
 
+O repositório se encontra privado no momento devido ao processo seletivo ainda estar acontecendo.
+
 ---
 
 Imagens e paleta de cores retiradas do site da [Feegow](https://feegowclinic.com.br/)
